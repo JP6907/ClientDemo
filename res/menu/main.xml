@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"  >
+
+    <item
+        android:id="@+id/btn_get_ip"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="自动获取本地IP地址"/>
+    <item
+        android:id="@+id/btn_set_ip"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="设置本地IP地址"/>
+    <item
+        android:id="@+id/btn_tomcat6"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Tomcat 6"/>
+    <item
+        android:id="@+id/btn_tomcat7"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Tomcat 7"/>
+
+</menu>
